@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shruti patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti patil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shruti-patil-a223671a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti patil" height="30" width="40" /></a>
 <a href="https://discord.gg/PATIL_SHRUTI#9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PATIL_SHRUTI#9720" height="30" width="40" /></a>
 <a href="https://instagram.com/patil_shruti29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil_shruti29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@patilshruti2906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@patilshruti2906" height="30" width="40" /></a>
