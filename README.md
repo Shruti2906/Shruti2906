@@ -41,10 +41,10 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>&nbsp; &nbsp; &nbsp;
-<!--   Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>&nbsp; &nbsp; &nbsp;
+<!-- Express.js -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/> 
+</a>&nbsp; &nbsp; &nbsp;
 <!--   Gti -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -85,6 +85,38 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>&nbsp; &nbsp; &nbsp;
+<!-- React -->
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>&nbsp; &nbsp; &nbsp;
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>&nbsp; &nbsp; &nbsp;
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>&nbsp; &nbsp; &nbsp;
+  <!-- Ionic -->
+  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> 
+  </a>&nbsp; &nbsp; &nbsp;
+<!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
+  </a>&nbsp; &nbsp; &nbsp;
+<!-- Eclipse -->
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
+</a>&nbsp; &nbsp; &nbsp; <br>
+<!-- Vercel -->
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/> 
+</a>&nbsp; &nbsp; &nbsp;
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> 
+</a>&nbsp; &nbsp; &nbsp;
 
 </p>
 
