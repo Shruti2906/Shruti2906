@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!--   Angular -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+  <a href="https://angular.io" target="_blank"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>&nbsp; &nbsp; &nbsp;
 <!--   Bootstrap -->
