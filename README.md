@@ -113,9 +113,10 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/> 
 </a>&nbsp; &nbsp; &nbsp;
+  
 <!-- AWS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js-1.svg" alt="next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next.js" width="40" height="40"/>
 </a>&nbsp; &nbsp; &nbsp;
  
 </a>&nbsp; &nbsp; &nbsp;
