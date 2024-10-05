@@ -119,12 +119,11 @@
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next.js" width="40" height="40"/>
 </a>&nbsp; &nbsp; &nbsp;
  
+<!-- Nest Js -->
+<a<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg" alt="next.js" width="40" height="40"/>
 </a>&nbsp; &nbsp; &nbsp;
 
-<!-- Nest Js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="40" height="40"/>
-</a>&nbsp; &nbsp; &nbsp;
 
 
 </p>
