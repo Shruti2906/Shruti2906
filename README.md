@@ -120,11 +120,9 @@
 </a>&nbsp; &nbsp; &nbsp;
  
 <!-- Nest Js -->
-<a<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg" alt="next.js" width="40" height="40"/>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </a>&nbsp; &nbsp; &nbsp;
-
-
 
 </p>
 
