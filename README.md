@@ -115,8 +115,8 @@
 </a>&nbsp; &nbsp; &nbsp;
   
 <!-- AWS -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next.js" width="40" height="40"/>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> 
 </a>&nbsp; &nbsp; &nbsp;
  
 <!-- Nest Js -->
