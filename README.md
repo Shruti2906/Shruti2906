@@ -41,10 +41,12 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>&nbsp; &nbsp; &nbsp;
+  
 <!-- Express.js -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/> 
 </a>&nbsp; &nbsp; &nbsp;
+
 <!--   Gti -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
