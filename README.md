@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shruti Patil</h1>
 <h3 align="center">I'm a final-year undergraduate student pursuing a BE in Computer Engineering from SPPU. Passionate about technology and software development.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" margin-left="1%" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🌱 I’m Currently Exploring **MEAN/MERN Stack**
 
-- <p padding-left: 2%>🔎 Driven to apply my skills toward solving real-world challenges and creating a meaningful impact.</p>
+- **🔎 Driven to apply my skills toward solving real-world challenges and creating a meaningful impact. **
 
 - 💬 Ask me about **Java Full Stack**
 
