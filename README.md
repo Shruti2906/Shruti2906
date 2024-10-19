@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🌱 I’m Currently Exploring **MEAN Stack**
+- 🌱 I’m Currently Exploring **MEAN/MERN Stack**
 
-- 🔎 Seeking Opportunities **internships or full-time job opportunities where I can leverage my skills and contribute to real-world projects. If you're looking for a motivated and dedicated developer, feel free to reach out!**
+-**🔎 Driven to apply my skills toward solving real-world challenges and creating a meaningful impact.**
 
 - 💬 Ask me about **Java Full Stack**
 
