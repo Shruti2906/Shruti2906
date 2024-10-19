@@ -5,7 +5,7 @@
 
 - 🌱 I’m Currently Exploring **MEAN/MERN Stack**
 
--**🔎 Driven to apply my skills toward solving real-world challenges and creating a meaningful impact.**
+- **🔎 Driven to apply my skills toward solving real-world challenges and creating a meaningful impact.**
 
 - 💬 Ask me about **Java Full Stack**
 
