@@ -126,6 +126,12 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </a>&nbsp; &nbsp; &nbsp;
 
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</a>&nbsp; &nbsp; &nbsp;
+
+
 </p>
 
 <br>
